@@ -1,0 +1,7 @@
+2024-04-29 12:35:59,509 - ERROR - Error occurred while fetching global rank for ruby-creations.com: invalid literal for int() with base 10: '- -'
+2024-04-29 12:38:08,420 - ERROR - Error occurred while fetching global rank for taplex.shop: invalid literal for int() with base 10: '- -'
+2024-04-29 12:39:50,041 - ERROR - Error occurred while fetching global rank for dmd567.com: invalid literal for int() with base 10: '- -'
+2024-04-29 12:41:49,937 - ERROR - Error occurred while fetching global rank for rainbowlnr.com: invalid literal for int() with base 10: '- -'
+2024-04-29 12:48:26,078 - ERROR - Error occurred while fetching global rank for evest-finance.com: invalid literal for int() with base 10: '- -'
+2024-04-29 12:48:59,438 - ERROR - Error occurred while fetching global rank for manta-trades.org: invalid literal for int() with base 10: '- -'
+2024-04-29 12:50:05,312 - ERROR - Error occurred while fetching global rank for medicinefish.org: invalid literal for int() with base 10: '- -'

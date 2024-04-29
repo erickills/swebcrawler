@@ -1,0 +1,1 @@
+C:\Python310\python.exe C:\Users\teu-user\Documents\Ericson_development\similarweb_ranking\spider.py	
